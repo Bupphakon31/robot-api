@@ -1,0 +1,14 @@
+{
+    "house_data": {
+        "house": "Slytherin",
+        "emoji": "🐍",
+        "founder": "Salazar Slytherin",
+        "colors": ["green", "silver"],
+        "animal": "Snake",
+        "index": 3
+    },
+
+    "not_found_house_data": {
+        "error": "Invalid Index"
+    }
+}
