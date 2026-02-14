@@ -24,6 +24,9 @@ npm install
 # Run all tests
 npm run test
 
+# Run specific test file
+robot testCases/test_api.robot
+
 # View test report
 npm run report
 ```
